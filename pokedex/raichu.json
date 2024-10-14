@@ -1,0 +1,13 @@
+{
+    "nombre": "raichu",
+    "peso": 300,
+    "altura": 8,
+    "habilidades": [
+        "static",
+        "lightning-rod"
+    ],
+    "tipos": [
+        "electric"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+}

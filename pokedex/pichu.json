@@ -1,0 +1,13 @@
+{
+    "nombre": "pichu",
+    "peso": 20,
+    "altura": 3,
+    "habilidades": [
+        "static",
+        "lightning-rod"
+    ],
+    "tipos": [
+        "electric"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+}

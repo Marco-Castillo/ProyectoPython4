@@ -1,0 +1,13 @@
+{
+    "nombre": "rayquaza",
+    "peso": 2065,
+    "altura": 70,
+    "habilidades": [
+        "air-lock"
+    ],
+    "tipos": [
+        "dragon",
+        "flying"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png"
+}

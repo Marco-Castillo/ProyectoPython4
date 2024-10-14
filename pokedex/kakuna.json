@@ -1,0 +1,13 @@
+{
+    "nombre": "kakuna",
+    "peso": 100,
+    "altura": 6,
+    "habilidades": [
+        "shed-skin"
+    ],
+    "tipos": [
+        "bug",
+        "poison"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+}

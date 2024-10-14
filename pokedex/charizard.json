@@ -1,0 +1,14 @@
+{
+    "nombre": "charizard",
+    "peso": 905,
+    "altura": 17,
+    "habilidades": [
+        "blaze",
+        "solar-power"
+    ],
+    "tipos": [
+        "fire",
+        "flying"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+}

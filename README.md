@@ -19,4 +19,4 @@ Permite buscar y ver información de cualquier Pokémon usando la PokeAPI. Solo 
 
 ### Acerca del Bootcamp
 
-Quiero agradecer a Juan David y a todo el equipo por su dedicación y apoyo a lo largo de todo el bootcamp. Cada clase fue una oportunidad para aprender de verdad. Me ayudaron a entender y aplicar los temas de manera sencilla y, lo más importante, de forma práctica. Gracias por estar siempre ahí, por su constante apoyo, y por hacer que este proceso fuera tan valioso y lleno de aprendizaje.
+Quiero agradecer a Juan David y a todo el equipo por su dedicación y apoyo a lo largo de todo el bootcamp. Cada clase fue una oportunidad para aprender de verdad. Me ayudaron a entender y aplicar los temas de manera sencilla y lo más importante, de forma práctica. Gracias por estar siempre ahí, por su constante apoyo y por hacer que este proceso fuera tan valioso y lleno de aprendizaje.

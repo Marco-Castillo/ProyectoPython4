@@ -1,0 +1,13 @@
+{
+    "nombre": "blastoise",
+    "peso": 855,
+    "altura": 16,
+    "habilidades": [
+        "torrent",
+        "rain-dish"
+    ],
+    "tipos": [
+        "water"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+}

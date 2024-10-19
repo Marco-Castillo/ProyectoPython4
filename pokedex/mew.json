@@ -1,0 +1,12 @@
+{
+    "nombre": "mew",
+    "peso": 40,
+    "altura": 4,
+    "habilidades": [
+        "synchronize"
+    ],
+    "tipos": [
+        "psychic"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png"
+}

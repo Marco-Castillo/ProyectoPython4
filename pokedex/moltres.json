@@ -1,0 +1,14 @@
+{
+    "nombre": "moltres",
+    "peso": 600,
+    "altura": 20,
+    "habilidades": [
+        "pressure",
+        "flame-body"
+    ],
+    "tipos": [
+        "fire",
+        "flying"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png"
+}
